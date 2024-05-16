@@ -1,0 +1,109 @@
+@media (max-width: 700px) {
+    .minoutmegrid {
+        padding: 20px;
+    }
+
+    .dwld {
+        padding: 8px 14px;
+    }
+
+    .bing {
+        height: 44px;
+        width: 44px;
+    }
+
+    .imagery {
+        display: none;
+    }
+
+    .simagery {
+        display: block;
+        padding: auto;
+        width: 100vw;
+        padding: 10px;
+    }
+
+    .simagery img {
+        width: 100%;
+        margin: auto;
+        border-radius: 16px;
+    }
+
+    .ictpay {
+        display: flex;
+        flex-wrap: wrap;
+        grid-auto-columns: 1fr;
+        grid-template-columns: auto auto;
+        gap: 0px;
+        width: 100vw;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    .itext h1 {
+        font-family: "Bebas Neue", sans-serif;
+        font-size: 43px;
+        color: #fff;
+        margin-top: 80px;
+        margin-bottom: 12px;
+        padding-left: 10px;
+    }
+
+    .displayeet {
+        width: 100%;
+        display: grid;
+        grid-auto-columns: 1fr;
+        grid-template-rows: auto auto;
+        gap: 0px;
+        margin: 0px;
+        padding-right: 22px;
+    }
+
+    .dispskills button {
+        padding: 16px 24px;
+        border-radius: 100px;
+        font-family: "Manrope", sans-serif;
+        font-weight: 700;
+        color: #fff;
+        margin: 5px;
+        background-color: #fff0;
+        border: 1px solid #484848;
+    }
+
+    .exps {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 15px;
+        gap: 0px;
+        margin: 0px;
+    }
+
+    .exptext h1 {
+        font-size: 43px;
+        color: #fff;
+        margin-top: 64px;
+        margin-bottom: 0px;
+    }
+
+    .myjobs {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .fwex {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .fwex h2 {
+        font-size: 18px;
+    }
+
+    .fwex p {
+        font-family: "Manrope", sans-serif;
+        font-size: 16px;
+        color: #c7c7c7;
+        /* padding-top: 4px; */
+    }
+}
