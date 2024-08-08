@@ -376,15 +376,15 @@
   
   .dwip:hover,
   .dwip.is-active {
-    background-color: #1c2c4c;
-    color: #88dded;
+    background-color: hsla(0, 0%, 100%, 0.952);
+    color: #00d8ff;
   }
   
   .dwip:hover i,
   .dwip.is-active i {
     scale: 1.4;
     margin-left: 10px;
-    color: #88dded;
+    color: #00d8ff;
   }
 .px-3 {
   padding-right: 2rem !important;
